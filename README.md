@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, sou Nayara Oliveira
 
-<!--
-**nay-oliveiras/nay-oliveiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+📊 Iniciante em Análise de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Estou iniciando minha carreira em **Análise de Dados**, com grande interesse em transformar dados em insights relevantes.
+
+Tenho experiência acadêmica prática e em projetos pessoais com limpeza, análise e visualização de dados usando Python e ferramentas de BI.
+
+## 🛠️ Ferramentas e Tecnologias
+- Python (Pandas, Matplotlib)
+- SQL (MySQL)
+- Power BI
+- Fundamentos de Limpeza e Análise de Dados
+
+## 📚 Atualmente Aprendendo
+- Pandas Avançado
+- Melhores práticas de Visualização de Dados
+- Estatística para Análise de Dados
+
+## 📂 Projetos
+Aqui você encontrará projetos acadêmicos e pessoais focados em:
+- Limpeza e pré-processamento de dados
+- Análise Exploratória de Dados (EDA)
+- Análise de conjuntos de dados públicos
+- Visualização e insights de dados
+
+📫 Sinta-se à vontade para se conectar comigo no LinkedIn!
+www.linkedin.com/in/nayara-oliveira-594a73252
